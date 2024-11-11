@@ -1,5 +1,6 @@
 const decodeTheRing = function (s, p) {
-
+    let message=s;
+    let key=p;
     const m = message.length;
     const n = key.length;
 
