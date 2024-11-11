@@ -1,6 +1,5 @@
 const getTotalIsles = function (grid) {
 
-  function numIslands(grid) {
     // Edge case: If grid is empty
     if (!grid || grid.length === 0) return 0;
     
