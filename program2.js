@@ -1,5 +1,5 @@
 const decodeTheRing = function (s, p) {
-  function isMatch(message, key) {
+
     const m = message.length;
     const n = key.length;
 
